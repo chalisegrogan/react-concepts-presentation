@@ -1,0 +1,3 @@
+const example = () => (
+  <div>I'm a single-responsibility component. I just display words!</div>
+)
